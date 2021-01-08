@@ -1,11 +1,12 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               Truth Shrines
+tagline:             'For Love and Democracy'
+description:         'A project to resist the 01/06/2021 coup. Made by several <a href="https://extinctionrebellion.us" target="_blank">Extinction Rebellion US</a> chapters.'
 url:                 https://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+email:               howilovetheearth@gmail.com
 
 # About/contact
 author:
@@ -19,4 +20,4 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: UA-146052-15
+google_analytics_id: #UA-XXXX-Y
