@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-url: https://google.com
 ---
 
 <p class="message">
