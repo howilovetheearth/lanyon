@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Loving Resistance
+image: "/assets/images/solidarity.png"
 ---
 
 The January 6th coup illuminated the consequences of a media culture that normalizes fascism undergirded by racism.
