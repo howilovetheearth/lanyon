@@ -12,11 +12,13 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
-          <img src="{{ site.main_image | absolute_url }}"/>
+          <div class="main-image-container">
+          <img class="main-image" src="{{ site.main_image | absolute_url }}"/>
           <h3 class="masthead-title">
             <a href="{{ site.url }}" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
+          </div>
         </div>
       </div>
 
