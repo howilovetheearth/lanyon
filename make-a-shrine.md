@@ -4,11 +4,6 @@ title: Building a Shrine
 url: /make-a-shrine
 ---
 
-<p class="message">
-  TBD
-</p>
-
-
 Building a shrine is really simple! Just follow these steps:
 
 1. Identify a public location (we suggest avoiding government offices,
