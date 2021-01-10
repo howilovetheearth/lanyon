@@ -3,8 +3,13 @@ layout: page
 title: Building a Shrine
 url: /make-a-shrine
 ---
+## Pictures of Shrines
+<p class="message">
+    Under Construction!
+</p>
 
-Building a shrine is really simple! Just follow these steps:
+## Make your own shrine!
+It's really simple! Just follow these steps:
 
 1. Identify a public location (we suggest avoiding government offices,
 to foreclose any security concerns that our shrines are dangerous).
