@@ -1,6 +1,7 @@
 # Setup
 title:               Truth Shrines
 tagline:             'For Love and Democracy'
+main_image:          '/assets/images/shrine.jpg'
 description:         'A project to resist the 01/06/2021 coup. Made by several <a href="https://extinctionrebellion.us" target="_blank">Extinction Rebellion US</a> chapters.'
 url:                 https://truthlovedemocracy.org
 baseurl:             ''
