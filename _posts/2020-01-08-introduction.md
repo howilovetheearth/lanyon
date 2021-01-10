@@ -7,7 +7,11 @@ image: "/assets/images/solidarity.png"
 The January 6th coup illuminated the consequences of a media culture that normalizes fascism undergirded by racism.
  Silence and violence are complicities.
   We need robust, loving activism.
-   Please join us in building shrines and artwork in city centers, town squares, and parks that:
+   Please join us in
+   <a href="/make-a-shrine" target="_blank">
+    building shrines
+   </a>
+  and artwork in city centers, town squares, and parks that:
 
 * Show support for democracy, and envision the world we want.
 * Demonstrate multi-racial solidarity, allyship, climate justice, an equitable future, respect, and love for one another and all species.
