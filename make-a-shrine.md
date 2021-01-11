@@ -17,7 +17,7 @@ to foreclose any security concerns that our shrines are dangerous).
 <a href="https://drive.google.com/drive/folders/1aRpAN8JHmypNuLKORxiVDTqmN1Rxosm6"
     target="_blank">
     this folder
-</a>
+</a>.
 3. Bring tape and consider bringing chalk,
  flowers and candles.
 4. Take pictures of your mural (please
@@ -25,4 +25,4 @@ to foreclose any security concerns that our shrines are dangerous).
     target="_blank">
     send them to us
 </a>
-),create more murals, share this website with others and stay strong!
+), create more murals, share this website with others and stay strong!
