@@ -11,6 +11,6 @@ url: /ally-projects
 
 Check out this work by Democracy Rising:
 
-* <a target="_blank" href="https://drive.google.com/file/d/1vpoxQB4zAEE7e9t36uOWPLbDiFQL4UE0/view"> Democrarcy Rising - Messaging Guide </a>
+* <a target="_blank" href="https://drive.google.com/file/d/1vpoxQB4zAEE7e9t36uOWPLbDiFQL4UE0/view"> Democracy Rising - Messaging Guide </a>
 * <a target="_blank" href="http://bit.ly/DemocracyRising"> Democracy Rising - a Social Media Toolkit </a>
 
