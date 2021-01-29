@@ -2,11 +2,9 @@
 layout: page
 title: Building a Shrine
 url: /make-a-shrine
+gallery-root: /assets/images/examples/
+display-date: "January 12th, 2021"
 ---
-## Pictures of Shrines
-<p class="message">
-    Under Construction!
-</p>
 
 ## Make your own shrine!
 It's really simple! Just follow these steps:
@@ -26,3 +24,26 @@ to foreclose any security concerns that our shrines are dangerous).
     send them to us
 </a>
 ), create more murals, share this website with others and stay strong!
+
+## Pictures of Shrines
+<div id="gallery">
+  {% for image in site.static_files %}
+    {% if image.path contains page.gallery-root %}
+	<img alt="{{ page.title }}:{{ page.display-date }}" src="{{ image.path }}"
+				data-image="{{ image.path }}"
+				data-description="{{ page.title }}:{{ page.display-date }}">
+	{% endif %}
+  {% endfor %}
+</div>
+
+<br/>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    jQuery("#gallery").unitegallery({
+        gallery_theme: "tiles",
+        tiles_type: "nested",
+        tiles_min_columns: 1,
+        tiles_nested_optimal_tile_width: 400
+    });
+});
+</script>
